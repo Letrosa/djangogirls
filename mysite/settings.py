@@ -25,7 +25,7 @@ SECRET_KEY = 'i@3*o62x0of02*50)j((u7kpyopzg_12t&9qhml)n)u5zrx-x+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'letrosa.pythonanywhere.com']
 
 
 # Application definition
